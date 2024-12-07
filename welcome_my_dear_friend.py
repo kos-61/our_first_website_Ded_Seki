@@ -1,0 +1,1 @@
+print('Hello my dear friend GASAN, you my best friend!!!')
